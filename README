@@ -1,1 +1,4 @@
-This application was written for a school assignment that required the use of an ant colony optimization library written in C.  This python code wrapped the C library and fed it input and aggregated the output for result presentation using a graphing toolkit.
+This application was written for a school assignment that required the use of an 
+ant colony optimization library written in C.  This python code wrapped the C 
+library and fed it input and aggregated the output for result presentation using 
+a graphing toolkit.
